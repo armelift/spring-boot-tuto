@@ -1,10 +1,10 @@
-package com.armelift.service;
+package com.armelift.services;
 
 import java.util.Collection;
 import java.util.Optional;
 
-import com.armelift.domain.User;
-import com.armelift.domain.UserCreateForm;
+import com.armelift.domains.User;
+import com.armelift.domains.UserCreateForm;
 
 public interface UserService {
 

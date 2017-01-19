@@ -1,4 +1,4 @@
-package com.armelift.domain;
+package com.armelift.domains;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

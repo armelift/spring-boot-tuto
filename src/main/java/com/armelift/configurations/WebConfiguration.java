@@ -1,4 +1,4 @@
-package com.armelift.configuration;
+package com.armelift.configurations;
 
 import org.h2.server.web.WebServlet;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
